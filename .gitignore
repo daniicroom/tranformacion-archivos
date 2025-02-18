@@ -1,1 +1,4 @@
 *.xlsx
+/MisionFiles
+/FileData
+dataBD20.csv
